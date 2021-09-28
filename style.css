@@ -87,3 +87,9 @@ h3 {
     outline: none;
     padding-bottom: .5em;
 }
+
+@media only screen and (max-width: 750px) {
+    h1 {
+        font: 600 2.5em 'Raleway', sans-serif;
+    }
+}
